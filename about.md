@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I graduated from Quest University in April of 2016, with a BASc in Liberal Arts and Sciences, with a focus in mathematics. The title of my Keystone Project is "Applying Integer Programming to Employee Scheduling", which was in support of the Question  "How do I optimize the efficiency of a system?"
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am currently working on a MSc in Operations Research, through the Department of Mathematics at Simon Fraser University, in Surrey, BC.
 
 ### Contact me
 
